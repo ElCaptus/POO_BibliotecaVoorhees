@@ -2,7 +2,7 @@
 
 Este repositorio al igual que todos los comenzados en POO_ estan hechos con el proposito de mostrar ejercicios hechos durante la materia OO2.
 En esta materia enseñan y realizan ejercicios relacionados a los patrones de diseño.
-Practica 1: Patron **Adapter** 
+- Practica 1: Patron **Adapter** 
 
 # Practica 1 Ejercicio 2: Friday the 13th en Java 
 
