@@ -4,7 +4,7 @@ Este repositorio al igual que todos los comenzados en POO_ estan hechos con el p
 En esta materia enseñan y realizan ejercicios relacionados a los patrones de diseño.
 Practica 1: Patron **Adapter** 
 
-# Ejercicio 2: Friday the 13th en Java 
+# Practica 1 Ejercicio 2: Friday the 13th en Java 
 
 Nota: Para realizar este ejercicio, utilice el recurso que se encuentra en el sitio de la cátedra.
 Allí encontrará un proyecto Maven que contiene el código fuente de las clases Biblioteca, Socio y VoorheesExporter.
